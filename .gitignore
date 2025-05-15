@@ -43,3 +43,4 @@ WebAPI/WebAPI.csproj
 WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+WebAPI/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
