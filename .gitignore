@@ -39,3 +39,7 @@ WebAPI/obj/Debug/net9.0/WebAPI.MvcApplicationPartsAssemblyInfo.cache
 WebAPI/obj/Debug/net9.0/WebAPI.pdb
 WebAPI/obj/Debug/net9.0/ref/WebAPI.dll
 WebAPI/obj/Debug/net9.0/refint/WebAPI.dll
+WebAPI/WebAPI.csproj
+WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll

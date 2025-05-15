@@ -32,3 +32,6 @@ C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\obj
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\obj\Debug\net9.0\WebAPI.pdb
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\obj\Debug\net9.0\WebAPI.genruntimeconfig.cache
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\obj\Debug\net9.0\ref\WebAPI.dll
+C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\React-10\WebAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
