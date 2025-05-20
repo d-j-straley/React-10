@@ -24,7 +24,10 @@ dist-ssr
 *.sw?
 WebAPI/bin/
 WebAPI/obj/
-WebAPI/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+WebAPI/bin/Debug/net9.0/
+WebAPI/Data/bin/
+WebAPI/Data/obj/
+Microsoft.AspNetCore.OpenApi.dll
 WebAPI/bin/Debug/net9.0/Microsoft.OpenApi.dll
 WebAPI/bin/Debug/net9.0/WebAPI.dll
 WebAPI/bin/Debug/net9.0/WebAPI.exe
