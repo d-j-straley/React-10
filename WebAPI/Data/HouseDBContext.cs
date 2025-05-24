@@ -16,4 +16,10 @@ public class HouseDBContext : DbContext
             optionsBuilder.UseSqlite($"Data Source={Path.Join(path, "HouseDB.db")}");
         }
     }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        SeedData.Seed(modelBuilder);
+        base.OnModelCreating(modelBuilder);
+    }
 }
